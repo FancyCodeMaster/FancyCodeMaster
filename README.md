@@ -36,20 +36,20 @@
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original-wordmark.svg" alt="godot" width="40" height="40"/> </a>
-<a href="https://zenml.io/" target="_blank" rel="noreferrer"> <img src="https://zenml.io/images/logo-light.svg" alt="zenml" width="40" height="40"/> </a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/> </a>
-<a href="https://wandb.ai/" target="_blank" rel="noreferrer"> <img src="https://wandb.ai/favicon.ico" alt="wandb" width="40" height="40"/> </a>
+<!-- <a href="https://zenml.io/" target="_blank" rel="noreferrer"> <img src="https://zenml.io/images/logo-light.svg" alt="zenml" width="40" height="40"/> </a> -->
+<!-- <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/> </a> -->
+<!-- <a href="https://wandb.ai/" target="_blank" rel="noreferrer"> <img src="https://wandb.ai/favicon.ico" alt="wandb" width="40" height="40"/> </a> -->
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
-<a href="https://dvc.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dvc/dvc-original.svg" alt="dvc" width="40" height="40"/> </a>
+<!-- <a href="https://dvc.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dvc/dvc-original.svg" alt="dvc" width="40" height="40"/> </a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cicd/cicd-original.svg" alt="ci/cd" width="40" height="40"/> </a>
+<!-- <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cicd/cicd-original.svg" alt="ci/cd" width="40" height="40"/> </a> -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://dagshub.com/" target="_blank" rel="noreferrer"> <img src="https://dagshub.com/favicon.ico" alt="dagshub" width="40" height="40"/> </a>
+<!-- <a href="https://dagshub.com/" target="_blank" rel="noreferrer"> <img src="https://dagshub.com/favicon.ico" alt="dagshub" width="40" height="40"/> </a> -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
-<a href="https://gradio.app/" target="_blank" rel="noreferrer"> <img src="https://gradio.app/assets/logo-square-2b29e2f4.svg" alt="gradio" width="40" height="40"/> </a>
+<!-- <a href="https://gradio.app/" target="_blank" rel="noreferrer"> <img src="https://gradio.app/assets/logo-square-2b29e2f4.svg" alt="gradio" width="40" height="40"/> </a> -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fancycodemaster&show_icons=true&locale=en&layout=compact" alt="fancycodemaster" /></p>
