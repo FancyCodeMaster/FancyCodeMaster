@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/rikeshsilwal" target="blank"><img src="https://img.shields.io/twitter/follow/rikeshsilwal?logo=twitter&style=for-the-badge" alt="rikeshsilwal" /></a> </p>
 
-- 🌱 I’m currently learning **React Native , Deep Learning**
+- 🌱 I’m currently learning **MLOPS, TorchScript, AWS, Lightning for Torch**
 
-- 💬 Ask me about **React JS , Machine Learning , C++ , Python , JS**
+- 💬 Ask me about **Machine Learning , Python , Deep Learning**
 
 - 📫 How to reach me **silwalrikesh1@gmail.com**
 
