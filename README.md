@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rikesh Silwal Khatri(FancyCodeMaster)</h1>
-<h3 align="center">A Machine Learning Enthusiast , Web Developer and a Game Development Enthusiast from Nepal.</h3>
+<h3 align="center">AI Researcher and NLP Developer from Nepal.</h3>
 <img align="right" width="500" alt="Coder" src="https://fuertedevelopers.com/assets/img/aboutus.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fancycodemaster&label=Profile%20views&color=0e75b6&style=flat" alt="fancycodemaster" /> </p>
